@@ -1,4 +1,4 @@
 [build]
-  base = "hashroot-be"
+  base = "./hashroot-be"
   command = "npm run build"
   publish = "dist"
