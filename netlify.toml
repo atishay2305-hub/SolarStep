@@ -1,4 +1,4 @@
 [build]
   base = "./hashroot-be"
-  command = "npm run build"
+  command = "nodemon app.js"
   publish = "dist"
